@@ -1,0 +1,5 @@
+package ccom.skinsense.ai
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
