@@ -1,4 +1,13 @@
+<div align="center">
+   <img src="assets/logo.png" alt="SkinSense AI Logo" width="200"/>
+
 # SkinSense AI 🔬
+
+### AI-powered dermatological analysis for skin conditions
+
+</div>
+
+<div align="center">
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -6,7 +15,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-> AI-powered dermatological analysis tool for detecting and analyzing skin conditions with focus on psoriasis
+</div>
 
 ## 📱 App Screenshots
 
