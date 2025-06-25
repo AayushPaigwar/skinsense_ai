@@ -77,7 +77,7 @@ lib/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/aayushpaigwar/skin_sense_ai.git
+   git clone https://github.com/aayushpaigwar/skinsense_ai.git
    cd skin_sense_ai
    ```
 
