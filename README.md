@@ -8,6 +8,23 @@
 
 > AI-powered dermatological analysis tool for detecting and analyzing skin conditions with focus on psoriasis
 
+## 📱 App Screenshots
+
+<table>
+  <tr>
+    <td><img src="./assets/readme-assets/home_screen.png" alt="Home Screen" width="200"/></td>
+    <td><img src="./assets/readme-assets/analysis_result.png" alt="Analysis Results" width="200"/></td>
+    <td><img src="./assets/readme-assets/chatbot.png" alt="AI Chatbot" width="200"/></td>
+    <td><img src="./assets/readme-assets/pdf_report.png" alt="PDF Report" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home Screen</b></td>
+    <td align="center"><b>Analysis Results</b></td>
+    <td align="center"><b>AI Chatbot</b></td>
+    <td align="center"><b>PDF Report</b></td>
+  </tr>
+</table>
+
 ## 🌟 Features
 
 - **Skin Image Analysis**: AI-powered analysis of skin conditions with confidence scores
