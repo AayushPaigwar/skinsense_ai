@@ -12,10 +12,10 @@
 
 <table>
   <tr>
-    <td><img src="./assets/readme-assets/home_screen.png" alt="Home Screen" width="200"/></td>
-    <td><img src="./assets/readme-assets/analysis_result.png" alt="Analysis Results" width="200"/></td>
-    <td><img src="./assets/readme-assets/chatbot.png" alt="AI Chatbot" width="200"/></td>
-    <td><img src="./assets/readme-assets/pdf_report.png" alt="PDF Report" width="200"/></td>
+    <td><img src="https://github.com/AayushPaigwar/skinsense_ai/blob/master/assets/readme-assets/analysis-result.jpeg" alt="Analysis Results" width="200"/></td>
+    <td><img src="https://github.com/AayushPaigwar/skinsense_ai/blob/master/assets/readme-assets/ask-ai.jpeg" alt="AI Chatbot" width="200"/></td>
+    <td><img src="https://github.com/AayushPaigwar/skinsense_ai/blob/master/assets/readme-assets/home-page.jpeg" alt="Home Screen" width="200"/></td>
+    <td><img src="https://github.com/AayushPaigwar/skinsense_ai/blob/master/assets/readme-assets/pdf-preview.jpeg" alt="PDF Report" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Home Screen</b></td>
