@@ -87,7 +87,7 @@ lib/
 
    ```bash
    git clone https://github.com/aayushpaigwar/skinsense_ai.git
-   cd skin_sense_ai
+   cd skinsense_ai
    ```
 
 2. **Set up environment variables**
